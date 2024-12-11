@@ -4,12 +4,13 @@ Opencv(pip install opencv-python)
 Tkinter(Available in python)
 PIL (pip install Pillow)
 Pandas(pip install pandas)
-What steps you have to follow??
-Download my Repository
+
+#What steps you have to follow?
 Create a TrainingImage folder in a project.
 Open a AMS_Run.py and change the all paths with your system path
 Run AMS_Run.py.
-Project Structure
+
+#Project Structure
 After run you need to give your face data to system so enter your ID and name in box than click on Take Images button.
 It will collect 200 images of your faces, it save a images in TrainingImage folder
 After that we need to train a model(for train a model click on Train Image button.
