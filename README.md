@@ -13,6 +13,7 @@ Run AMS_Run.py.
 #Project Structure
 After run you need to give your face data to system so enter your ID and name in box than click on Take Images button.
 It will collect 200 images of your faces, it save a images in TrainingImage folder
+Also ceate a folder for TrainingImage in your system or directory
 After that we need to train a model(for train a model click on Train Image button.
 It will take 5-10 minutes for training(for 10 person data).
 After training click on Automatic Attendance ,it can fill attendance by your face using our trained model (model will save in TrainingImageLabel )
